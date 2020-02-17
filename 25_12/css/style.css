@@ -1,0 +1,538 @@
+.main-header .header-top{
+    background: #14a85c ;
+    height: 100%;
+}
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+
+
+
+
+.icon_phone_1{
+display: inline-block;
+    background: url(../PNG/icon_phone.png);
+    height: 28px;
+    width: 40px;
+    background-repeat: no-repeat;
+    float: left;
+}
+
+.icon_phone_2{
+  display: inline-block;
+    background: url(../PNG/icon_phone2.png);
+    height: 30px;
+    width: 40px;
+    background-repeat: no-repeat;
+    float: left;
+}
+.main-header .logo{
+display: inline-block;
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 5px 15px;
+}
+
+.main-header  a{
+    color: #fff;
+    font-size: 18px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.us{
+
+    color: #fff;
+    font-size: 18pt;
+    font-family: Myriad Pro;
+    float: left;
+
+}
+
+.icons{ 
+    float: left;
+    list-style: none;
+}
+
+.pinterest{
+   display: inline-block;
+    background: url(../PNG/p.png);
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 40px;
+}
+
+.pinterest:hover{
+    background: url(../hoverPNG/p1.png);
+    cursor: pointer;
+}
+
+.twitter{
+
+    display: inline-block;
+    background: url(../PNG/tw.png);
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 40px;
+}
+.twitter:hover{
+    background: url(../hoverPNG/tw1.png);
+    cursor: pointer;
+}
+
+.facebook{
+display: inline-block;
+    background: url(../PNG/f.png);
+    background-repeat: no-repeat;
+    height: 35px;
+    width: 40px;
+}
+
+.facebook:hover{
+    background: url(../hoverPNG/f1.png);
+    cursor: pointer;
+}
+.anime_2{
+    display: inline;
+}
+
+.companu{
+    display: inline-block;
+    background: url(../PNG/Untitled-1.png);
+    width: 292px;
+    height: 98px;
+    background-repeat: no-repeat;
+    
+}
+
+.menu li{
+    display:inline;
+    list-style-type: none;
+padding-left:0;
+}
+
+.menu a{
+    display:inline;
+    color: #000000;
+    font-size: 14px;
+}
+
+.menu a:hover{
+    color:#e84c3d ;
+    text-decoration:underline;
+}
+
+.hedaer-menu {
+    margin-top: 5%
+}
+
+.top-header__bg{
+    background-color: #86ea8f;
+}
+
+.top-header__img{
+height: 466px;
+background: url(../PNG/img_boy.png)no-repeat 0 100%/auto,url(../PNG/img_books_lamp.png)no-repeat 100% 100%/auto,url(../PNG/light.png)no-repeat 341px 103px;
+}
+
+.Live_Chat{
+    height: 59px;
+    width: 194px;
+background: url(../PNG/icon.png);
+margin-top: 60px;
+}
+
+.Live_Chat:hover{
+    height: 59px;
+    width: 194px;
+background: url(../PNG/icon1.png);
+margin-top: 60px;
+}
+
+
+.heder-haska h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 47px;
+    margin-left: 10%;
+    font-family: Myriad Pro;
+}
+
+.heder-haska h2{
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 36px;
+    margin-left: 30%;
+    font-family: Myriad Pro;
+}
+
+.heder-haska_text h3{
+    text-transform: uppercase;
+    font-size: 20px;
+    margin-left: 20%;
+    font-family: Myriad Pro;
+    margin-top: 5%;
+}
+
+.heder-haska_text p{
+    font-size: 20px;
+    margin-left: 20%;
+    font-family: Myriad Pro;
+}
+
+.Order_now{
+    height: 75px;
+    width: 275px;
+    background: url(../PNG/Order-NOW.png);
+    float: right;
+    background-repeat: no-repeat;
+}
+
+.Order_now:hover{
+    height: 75px;
+    width: 275px;
+    background: url(../PNG/Order-NOW1.png);
+    float: right;
+    background-repeat: no-repeat;
+}
+
+.main-header .header-bottom{
+    background: #14a85c ;
+    height: 50px;
+}
+/* менюшка вспливающа зробити*/
+.Special{
+    margin-top: 15px;
+    color: #fff;
+    font-size: 18px;
+    font-family: Myriad Pro;
+}
+
+.cen{
+    font-weight: bold;
+}
+
+.List{
+    margin-top: 2%;
+    height: 35px;
+    width: 275px;
+    background: url(../PNG/The-list-of-discounts.png);
+    float: right;
+    background-repeat: no-repeat;
+}
+
+.List:hover{
+    margin-top: 2%;
+    height: 35px;
+    width: 275px;
+    background: url(../hoverPNG/list.png);
+    float: right;
+    background-repeat: no-repeat;
+}
+/* менюшка вспливающа зробити*/
+.Advantages h2{
+    font-family: Myriad Pro;
+    font-size: 36px;
+    text-align: center;
+    margin: 30px;
+}
+.aconi1{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі1.png);
+}
+.aconi1:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon1.png);
+}
+.aconi2{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі2.png);
+}
+.aconi2:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon2.png);
+}
+.aconi3{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі3.png);
+}
+.aconi3:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon3.png);
+}
+.aconi4{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі4.png);
+}
+.aconi4:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon4.png);
+}
+.aconi5{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі5.png);
+}
+.aconi5:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon5.png);
+}
+.aconi6{
+    height: 168px;
+    width: 387px;
+    background: url(../PNG/iconі6.png);
+}
+.aconi6:hover{
+    height: 168px;
+    width: 387px;
+    background: url(../hoverPNG/icon6.png);
+}
+.COMPANYNAME{
+    margin-top: 3%;
+    font-family: Myriad Pro;
+    text-align: center;
+    font-size: 26px;
+}
+.COMPANYNAME h1{
+    margin: 0%;
+    padding: 0%;
+}
+.station{
+margin-top: 5%; 
+font-size: 14pt;
+ font-family: Myriad Pro;
+}
+.station1{
+ columns: 2;
+ column-gap: 65px;
+ 
+}
+.station2{
+    margin-top: 3%;
+    columns: 2;
+    column-gap: 112px;
+}
+.rul-heaer{
+    margin-top: 3%;
+    height: 512px;
+background-color: #86ea8f;
+}
+.rul-heaer .rul{
+    height: 135px;
+    width: 1170px;
+    background: url(../PNG/rul.png) no-repeat;
+    position: relative;
+    top: 30%;
+}
+.works{
+    margin-top: 3%;
+    font-size: 36px;
+    font-family: Myriad Pro;
+    color: #fff;
+    text-align: center;
+}
+.operation1{
+    position: relative;
+    right: 10%;
+    bottom: 74px;
+    height: 76px;
+    width: 76px;
+    background: url(../PNG/operation1.png) no-repeat;
+}
+.operation1_text1{
+    font-family: Myriad Pro;
+    font-size: 16px;
+    position: relative;
+    bottom: 134px;
+    left: 75px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.operation2{
+    position: relative;
+    right: 10%;
+    top: 131px;
+    height: 76px;
+    width: 76px;
+    background: url(../PNG/operation2.png) no-repeat;
+}
+.operation1_text2{
+    font-family: Myriad Pro;
+    font-size: 16px;
+    position: relative;
+    top: 70px;
+    left: 65px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+ .operation3{
+   position: relative;
+    right: 20%;
+    bottom: 70px;
+    height: 76px;
+    width: 76px;
+    background: url(../PNG/operation3.png) no-repeat;
+} 
+
+.operation1_text3{
+       font-family: Myriad Pro;
+    font-size: 16px;
+    position: relative;
+    bottom: 134px;
+    left: 55px;
+    text-transform: uppercase;
+    text-decoration: none;
+    }
+
+.operation4{
+    position: relative;
+    right: 30%;
+    top: 130px;
+    height: 76px;
+    width: 76px;
+    background: url(../PNG/operation4.png) no-repeat;
+}
+.operation1_text4{
+    font-family: Myriad Pro;
+    font-size: 16px;
+    position: relative;
+    top: 70px;
+    left: 40px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+    .operation5{
+   position: relative;
+    right: 20%;
+    bottom: 70px;
+    height: 76px;
+    width: 76px;
+    background: url(../PNG/operation5.png) no-repeat;
+} 
+.operation1_text5{
+       font-family: Myriad Pro;
+    font-size: 16px;
+    position: relative;
+    bottom: 120px;
+    left: 55px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+/* візерунок закінчивсь */
+.text_ul li{
+    list-style-type: none;
+    font-family: Myriad Pro;
+    font-size: 14pt;
+}
+.text_ul li:before{
+    content: ">";
+    color: #e95547;
+    font-family: Myriad Pro;
+    font-size: 14pt;
+    position: relative;
+    right: 30px;
+}
+.text_P{
+    list-style-type: none;
+    font-family: Myriad Pro;
+    font-size: 14pt;
+}
+.read{
+    margin-top: 5%;
+    height: 59px;
+    width: 194px;
+    background: url(../PNG/read_more.png) no-repeat 0 100%/auto;
+}
+/* Нижній підвал */
+.foter-wrapeper::before{
+  content: '';
+    background: url("../PNG/header-bee-line-1-(1).png") no-repeat 100% 0%;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    z-index: 10;
+    background-position-x: 20%;
+    background-position-y: 43%;
+    background-size: auto;
+}
+footer {position: relative;}
+.footer-top{
+    margin-top: 5%;
+    background: #14a85c ;
+    height: 204px;
+}
+
+.footer-bottom{
+    background: #4e4e4e ;
+    height: 70px;
+}
+.Essa{
+    margin-top: 5%;
+    height: 105px;
+    width: 308px;
+    background: url(../PNG/Essays.png) no-repeat;
+}
+.namber{
+    position: relative;
+    left: 5%;
+}
+.logo_footer{
+    font-family: Myriad Pro;
+    font-size: 14px;
+    color: #fff;
+    text-align: center;
+    margin-left: 25px;
+}
+.logo_footer a{
+    font-family: Myriad Pro;
+    font-size: 14px;
+    color: #fff;
+    text-decoration: none;
+    text-align: center;
+}
+.text-footer-top{
+  
+    margin: 24px;
+    border: 1px double #ffffff;}
+
+.text-footer-top p{
+    font-family: Myriad Pro;
+    font-size: 12px;
+    padding: 22px;
+    color: #fff;
+}
+.arrow{ 
+    background: url(../PNG/arrow.png) no-repeat 90% 100%/auto;}
+
+
+/* нижній футер */
+.Join_bottom{
+    margin-top: 10%; 
+}
+.Copyright{
+    margin-top: 4%;
+    text-align: center;
+    font-family: Myriad Pro;
+    font-size: 14px;
+    color: #fff;
+}
+
+/* .footer-lider{
+    height: 105px;
+    width: 308px;
+    background: url(../PNG/лінія-футер.png) no-repeat;
+} */
+
+lider
